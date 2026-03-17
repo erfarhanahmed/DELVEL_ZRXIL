@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SUSO" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <TOBJ>
+    <OBJCT>ZRXIL_INV</OBJCT>
+    <FIEL1>ACTVT</FIEL1>
+    <OCLSS>ZRXI</OCLSS>
+   </TOBJ>
+   <TOBJT>
+    <LANGU>E</LANGU>
+    <OBJECT>ZRXIL_INV</OBJECT>
+    <TTEXT>RXIL Authorization Object</TTEXT>
+   </TOBJT>
+   <TOBJVORFLG>
+    <OBJCT>ZRXIL_INV</OBJCT>
+    <FLAG3>N</FLAG3>
+    <FLAG4>A</FLAG4>
+    <FLAG5>A</FLAG5>
+   </TOBJVORFLG>
+   <TACTZ>
+    <TACTZ>
+     <BROBJ>ZRXIL_INV</BROBJ>
+     <ACTVT>0B</ACTVT>
+    </TACTZ>
+    <TACTZ>
+     <BROBJ>ZRXIL_INV</BROBJ>
+     <ACTVT>10</ACTVT>
+    </TACTZ>
+    <TACTZ>
+     <BROBJ>ZRXIL_INV</BROBJ>
+     <ACTVT>16</ACTVT>
+    </TACTZ>
+    <TACTZ>
+     <BROBJ>ZRXIL_INV</BROBJ>
+     <ACTVT>A9</ACTVT>
+    </TACTZ>
+   </TACTZ>
+  </asx:values>
+ </asx:abap>
+</abapGit>

@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DOMA" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD01V>
+    <DOMNAME>ZINV_STATUS</DOMNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DATATYPE>CHAR</DATATYPE>
+    <LENG>000010</LENG>
+    <OUTPUTLEN>000010</OUTPUTLEN>
+    <VALEXI>X</VALEXI>
+    <DDTEXT>Invoice Status</DDTEXT>
+   </DD01V>
+   <DD07V_TAB>
+    <DD07V>
+     <VALPOS>0001</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>READY</DOMVALUE_L>
+     <DDTEXT>Ready</DDTEXT>
+    </DD07V>
+    <DD07V>
+     <VALPOS>0002</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>EXP</DOMVALUE_L>
+     <DDTEXT> Expired</DDTEXT>
+    </DD07V>
+    <DD07V>
+     <VALPOS>0003</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>FACT</DOMVALUE_L>
+     <DDTEXT> Fact</DDTEXT>
+    </DD07V>
+    <DD07V>
+     <VALPOS>0004</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>L1FAIL</DOMVALUE_L>
+     <DDTEXT>L1 Fail</DDTEXT>
+    </DD07V>
+    <DD07V>
+     <VALPOS>0005</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>L1SET</DOMVALUE_L>
+     <DDTEXT>L1 Set</DDTEXT>
+    </DD07V>
+    <DD07V>
+     <VALPOS>0006</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>L2FAIL</DOMVALUE_L>
+     <DDTEXT> L2 Fail</DDTEXT>
+    </DD07V>
+    <DD07V>
+     <VALPOS>0007</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>L2SET</DOMVALUE_L>
+     <DDTEXT> L2 Set</DDTEXT>
+    </DD07V>
+    <DD07V>
+     <VALPOS>0008</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>SUB</DOMVALUE_L>
+     <DDTEXT>Submitted</DDTEXT>
+    </DD07V>
+    <DD07V>
+     <VALPOS>0009</VALPOS>
+     <DDLANGUAGE>E</DDLANGUAGE>
+     <DOMVALUE_L>WTHDRN</DOMVALUE_L>
+     <DDTEXT>Withdrawn</DDTEXT>
+    </DD07V>
+   </DD07V_TAB>
+  </asx:values>
+ </asx:abap>
+</abapGit>
